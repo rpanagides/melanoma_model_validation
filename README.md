@@ -6,7 +6,7 @@ The model we will be evaluating was developed by the user lizardwineto detect me
 
 The developer of this melanoma classification models claims it performs with ~99% accuracy on the dataset that it was trained on. Let's see how it does on new data that it has never seen before! We will use the model to predict melanoma and compare the models predictions to the images' actual labels.
 
-# Model Information
+## Model Information
 Model information: https://huggingface.co/lizardwine/Melanoma-003
 
 - Model type: Convolutional Neural Network (CNN)
