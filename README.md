@@ -21,6 +21,7 @@ Model information: https://huggingface.co/lizardwine/Melanoma-003
 - Benign: this folder includes images of benign skins lesions, which are non-cancerous.
 
 Here is what the testing dataset looks like: 
+
 <img src = "melanoma_pic3.png" width = "600">
 
 ## Results
