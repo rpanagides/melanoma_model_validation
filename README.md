@@ -21,11 +21,4 @@ Model information: https://huggingface.co/lizardwine/Melanoma-003
 - Benign: this folder includes images of benign skins lesions, which are non-cancerous.
 
 ## Results
-In the case of this melanoma classification model, evaluation bias may occur when the model appears to have high performance metrics but performs poorly in real-world settings. This can happen when inappropriate performance metrics are used (e.g., using accuracy for an imbalanced dataset), when training and testing datasets are not properly partitioned for model development and evaluation, or when the model is applied to images it was not designed for (e.g., a model trained to diagnose melanoma from pictures taken using a ‘dermatoscope’ but was used on data from pictures of moles taken on a standard camera with poorer quality). 
-
-# Note
-To run this code on your computer, first download the ______ file from this repository or directly from the kaggle website linked above.
-
-Next, download the ______ file and ensure it is in the same folder at the data file.
-
-That's all! Now when you open this code in Google Colab it should be able to be run smoothly!
+In the case of this melanoma classification model, evaluation bias may occur when the model appears to have high performance metrics but performs poorly in real-world settings. This can happen when inappropriate performance metrics are used (e.g., using accuracy for an imbalanced dataset), when training and testing datasets are not properly partitioned for model development and evaluation, or when the model is applied to images it was not designed for (e.g., a model trained to diagnose melanoma from pictures taken using a ‘dermatoscope’ but was used on data from pictures of moles taken on a standard camera with poorer quality).
